@@ -1,7 +1,7 @@
 
 PieX development tree
 
-PieX is a PoS-based cryptocurrency with masternode
+PieX is a PoS-based cryptocurrency with masternodes
 
 Development process
 ===========================
